@@ -35,4 +35,3 @@ http://localhost/mylocalsite/
 ```
 - Replace "mylocalsite" with the name of the folder you created in step 3.
 - Press Enter to load your local WordPress site in the browser.
-- 
